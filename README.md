@@ -24,3 +24,4 @@
  
 </div>
   
+![Snake animation](https://github.com/lademir/lademir/blob/output/github-contribution-grid-snake.svg)
